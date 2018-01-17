@@ -1,8 +1,8 @@
 # Redis缓存
 
 #### 1.单点模式配置
-spring.redis.hostName=10.200.152.113 <br>
-spring.redis.port=6379
+spring.redis.hostName= <br>
+spring.redis.port=
 #### 2.sentinel集群配置（优先级最高）
 spring.redis.sentinel.nodes= <br>
 spring.redis.sentinel.master=
